@@ -8,7 +8,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Python, SQL, Excel, and Tableau.
+I am a passionate Certified Data Analyst. who can easily turn data into information, information into insight, and insight into business decisions. To identify improvements, I can conduct a full lifecycle analysis that includes requirements, activities, design, monitoring performance, and quality control plans. 
 
 - 🔭 I'm a Data Analyst 
 - 💬 Ask me about **SQL and Data Analysis**
