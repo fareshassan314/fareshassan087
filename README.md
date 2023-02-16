@@ -9,7 +9,9 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I am a passionate Certified Data Analyst. who can easily turn data into information, information into insight, and insight into business decisions. To identify improvements, I can conduct a full lifecycle analysis that includes requirements, activities, design, monitoring performance, and quality control plans. 
+Certified Business Intelligence Analyst producing insights through SQL, Python, and Tableau. 
+
+Knowledge includes: data warehousing, complex database querying, writing and maintaining stored procedures, data analysis, building visualizations, building ETLs through Python, data science/machine learning models (regression, classification, clustering).
 
 - 🔭 I'm a Data Analyst 
 - 💬 Ask me about **SQL and Data Analysis**
