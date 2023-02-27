@@ -9,9 +9,9 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-Certified Business Intelligence Analyst producing insights through SQL, Python, and Tableau. 
+Certified Analytics Engineer producing insights through SQL, Python, and Tableau. 
 
-Knowledge includes: data warehousing, complex database querying, writing and maintaining stored procedures, data analysis, building visualizations, building ETLs through Python, data science/machine learning models (regression, classification, clustering).
+Knowledge includes: data warehousing, data mining, complex database querying, writing and maintaining stored procedures, data analysis, building visualizations, building ETLs through Python, data science/machine learning models (regression, classification, clustering).
 
-- 🔭 I'm a Data Analyst 
-- 💬 Ask me about **SQL and Data Analysis**
+- 🔭 I'm Analytics Engineer 
+- 💬 Ask me about **SQL, Python, Tableau and Data Science**
